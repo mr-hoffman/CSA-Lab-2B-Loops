@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Tickets {
+public class Grades {
   
   public static void main(String[] args) {
     //  write your code here
